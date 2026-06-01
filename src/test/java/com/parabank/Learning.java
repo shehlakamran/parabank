@@ -21,6 +21,7 @@ public class Learning {
         WebElement e2 = driver.findElement(By.id("accessMode1"));
         e2.click();
         System.out.println(e2.isSelected());
+        System.out.println(e2.isSelected());
 
     }
 }
